@@ -1,4 +1,4 @@
-setDefaultTab("Main")
+setDefaultTab("BR")
 
 UI.Button("Macros editor", function(newText)
     UI.MultilineEditorWindow(storage.ingame_hotkeys or "", {title="Macros editor", description="Adicione aqui as suas macros."}, function(text)
