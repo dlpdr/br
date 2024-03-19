@@ -1,4 +1,4 @@
-setDefaultTab("Main")
+setDefaultTab("BR")
 
 
 UI.Separator()
